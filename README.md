@@ -1,5 +1,5 @@
 # Vagrant_Python_Pyenv
-A Vagrant Ubuntu box with Pyenv and Virtualenv (Pyenv plugin),  Python 2.7.8, Python 3.7.4 installed as well
+Use a  Vagrant Ubuntu box with Pyenv and Virtualenv (Pyenv plugin) to experiment with Pyenv without impacting your system's Python configuration or other installs. This Vagrant box currently has  Python 2.7.8, Python 3.7.4 installed along with Pyevn and Virtualenv.
 
 # Background
 Vagrant allows for reproducible virtual machines to solve the problem of "well it works on my machine (but not yours)".  By easily reproducing virtual machine (from scratch) anyone can have a self-contained and repeatable OS configuration. In this case we can use and experiment with Python using Pyenv without the risk of blowing up your real machine's python configuration.
