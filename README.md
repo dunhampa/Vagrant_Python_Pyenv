@@ -22,3 +22,4 @@ from Vagrant_Python_Pyenv directory
 ```
 vagrant up
 ```
+If this is the first time running, it can take some time.  Many minutes or more. This is becasue Vagrant is fetching a Ubuntu image which is ~ 4GB. 
