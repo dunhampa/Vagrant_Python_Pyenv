@@ -22,4 +22,4 @@ from Vagrant_Python_Pyenv directory
 ```
 vagrant up
 ```
-If this is the first time running, it can take some time.  Many minutes or more. This is becasue Vagrant is fetching a Ubuntu image which is ~ 4GB. 
+If this is the first time running, it can take some time.  Many minutes or more. This is becasue Vagrant is fetching a Ubuntu image which is ~ 4GB. Subsequent calls to setup an Ubuntu box of the same version should take less time. After the image is fetched the install script will run which will also take time to complete. This progress should be visible within the terminal.
